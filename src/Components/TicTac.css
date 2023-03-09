@@ -57,9 +57,9 @@ td {
   font-size: 3.4em;
   font-size: 16vmin;
   /* Responsive font size! Awesome! */
-  height: 100%;
+  height: 200px;
   /* Fill the container (td) */
-  width: 100%;
+  width: 200px;
 }
 
 .wincell {
